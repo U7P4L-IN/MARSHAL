@@ -10,6 +10,11 @@ AUTHOR:
 <p align="center">
       ⚡PYTHON TO MARSHAL ENCODING⚡
 
+
+####NOTE:
+<p align="center">
+
+
 </p>
   
 #### INSTALL TOOL ON TERMUX
