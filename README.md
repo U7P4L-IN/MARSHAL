@@ -38,6 +38,18 @@ OUTPUT FILE NAME : /sdcard/FILE NAME
 
  python ENC_PY3.py
 ```
+### Or Use:
+```python
+
+rm -rf ENC_PY3
+git clone --depth=1 https://github.com/U7P4L-IN/ENC_PY3.git
+
+cd ENC_PY3
+
+python ENC_V3.py
+
+```
+
 
 #### Screenshots:
 
