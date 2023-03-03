@@ -46,7 +46,7 @@ git clone --depth=1 https://github.com/U7P4L-IN/ENC_PY3.git
 
 cd ENC_PY3
 
-python ENC_V3.py
+python ENC_V2.py
 
 ```
 
