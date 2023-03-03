@@ -53,7 +53,7 @@ python ENC_V2.py
 
 #### Screenshots:
 
-<p align="center"><img src="https://github.com/U7P4L-IN/ENC_PY3/blob/main/Screenshot_2023-02-18-11-05-39-673_com.termux.jpg">
+<p align="center"><img src="https://github.com/U7P4L-IN/ENC_PY3/blob/main/IMG_20230303_205034.jpg">
 
 #### Tools Languages :
 
