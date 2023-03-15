@@ -38,6 +38,10 @@ OUTPUT FILE NAME : /sdcard/FILE NAME
 
  python ENC_PY3.py
 ```
+#### Screenshots:
+
+<p align="center"><img src="https://github.com/U7P4L-IN/ENC_PY3/blob/main/IMG_20230315_090508.jpg">
+
 ### Or Use:
 ```python
 
