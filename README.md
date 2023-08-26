@@ -33,7 +33,7 @@ OUTPUT FILE NAME : /sdcard/FILE NAME
 ```
 #### Screenshots:
 
-<p align="center"><img src="https://github.com/U7P4L-IN/ENC_PY3/blob/main/Screenshot_2023-03-26-22-48-24-235_com.termux%20(2).jpg">
+<p align="center"><img src="https://github.com/U7P4L-IN/ENC_PY3/blob/master/image/GridArt_20230826_160241932.jpg">
 
 ### Or Use:
 ```python
