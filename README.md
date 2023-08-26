@@ -4,21 +4,14 @@ Welcome⚡
 --------|
 ![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
 
-AUTHOR:
 <p align="center">
- U7P4L IN
-
-</br>
-<p align="center">
-      ⚡PYTHON TO MARSHAL ENCODING⚡
-
+Encryption is used to protect data from being stolen, changed, or compromised and works by scrambling data into a secret code that can only be unlocked with a unique digital key.
 
 ####NOTE:
-<p align="center">
+```python
 INPUT FILE NAME : /sdcard/FILE NAME
 OUTPUT FILE NAME : /sdcard/FILE NAME
-
-</p>
+```
   
 #### INSTALL TOOL ON TERMUX
 ```python
