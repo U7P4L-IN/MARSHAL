@@ -50,7 +50,7 @@ python ENC_V2.py
 
 #### Screenshots:
 
-<p align="center"><img src="https://github.com/U7P4L-IN/ENC_PY3/blob/main/Screenshot_2023-03-26-22-48-24-235_com.termux%20(2).jpg">
+<p align="center"><img src="https://github.com/U7P4L-IN/ENC_PY3/blob/master/image/IMG_20230831_222803_499.jpg">
 
 #### Tools Languages :
 
